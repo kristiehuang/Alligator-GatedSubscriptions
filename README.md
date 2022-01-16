@@ -1,5 +1,6 @@
 # Alligator = gated subscription access platform - smart contracts
 * anotha kristie toy learning project, this time built from scratch, spec and all
+* this shouldnt rly need to be said but do not use this lollllll
 * recurring payments!!!
     * for subscription services; once payment is sent successfully, user automatically receives monthly access NFT for token-gated anything..
         * i.e. user SBAT sets up recurring monthly payment

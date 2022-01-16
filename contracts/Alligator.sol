@@ -50,7 +50,7 @@ contract Alligator {
 
 
     modifier gaterOnly() {
-        // todo: require
+        require(gaterToGateIds[msg.sender].length > 0, "This function can only be called by a gater");
         _;
     }
 
